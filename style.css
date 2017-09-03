@@ -1,0 +1,36 @@
+body{
+	background-color: #f2de6d;
+}
+.jumbotron{
+	font-family: 'Pacifico', cursive;
+	color:#edc7ed;
+	text-shadow: 2px 2px 8px #af8eaf;
+	background-color: #267ecc;
+
+}
+
+.panel-title{
+	font-family: 'Alegreya Sans', 40px, sans-serif;
+}
+
+.panel-body{
+	font-family: 'Source Serif Pro', serif;
+}
+
+.panel-title{
+	font-family: 'Source Serif Pro', serif;
+
+}
+
+.panel-heading{
+	background-color: #f4f09a;
+}
+
+.panel-primary{
+	background-color: #e3deea;
+	color: black;
+}
+
+#trainTable{
+	font-family: 'Source Serif Pro', serif;
+}
